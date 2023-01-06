@@ -3,4 +3,3 @@
 - Eggs
 - Xbox 
 - apple
-- others
