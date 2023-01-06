@@ -1,4 +1,6 @@
 # shopping-list
 - Bacon
 - Eggs
-- Xbox
+- Xbox 
+- apple
+- others
